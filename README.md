@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ShubhamPoly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shubham Chaurasiya
+- 👀 I’m interested in learn new technology
+- 🌱 I’m currently learning & working in Infosys Ltd.
+- 💞️ I’m looking to collaborate on many new technologies like Java, Angular, Spring, etc.
+- 📫 How to reach me: Conatact: 8840625613, 9044244512
+- Email: yashuazm@gmail.com
 
 <!---
 ShubhamPoly/ShubhamPoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
